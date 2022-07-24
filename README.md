@@ -1,2 +1,2 @@
-# Brawnboard
-Idk yet.
+# Brawnboard(rewrite)
+Small message system im working on.
